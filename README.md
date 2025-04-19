@@ -1,29 +1,16 @@
-# Manajemen Barang App
+# manajemen_barang
 
-Aplikasi Flutter untuk manajemen inventaris barang. Menyediakan dashboard visual dan CRUD item.
+A new Flutter project.
 
-## 📱 Fitur Utama yang terselesaikan
+## Getting Started
 
-- **Dashboard:**
-  - Menampilkan info stok rendah, habis, expiring, dan perubahan kuantitas
-  - Grafik penggunaan stok (Line Chart)
-  - Riwayat aktivitas terbaru
+This project is a starting point for a Flutter application.
 
-- **Manajemen Items:**
-  - Tambah, edit, dan hapus item
-  - Pencarian dan filter berdasarkan kategori
+A few resources to get you started if this is your first Flutter project:
 
-## 🚀 Cara Menjalankan
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/manajemen-barang-app.git
-   cd manajemen-barang-app
-
-2. Jalankan perintah pub get pada Terminal VSC:
-   flutter pub get
-
-3. Run aplikasi:
-   flutter run
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
